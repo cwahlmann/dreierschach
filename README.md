@@ -9,12 +9,12 @@ Dreierschach © 2021 by Christian Wahlmann is licensed under CC BY 4.0. To view 
 - ein Spielbrett mit 126 sechseckigen Feldern in drei Farben 
 - 51 Spielfiguren, davon je 17 in einer Farbe: 
 
-![1 König](/white_king.svg "1 König") 
-![1 Dame](/white_queen.svg "1 Dame")
-![2 Türme](/white_rook.svg "2 Türme")
-![2 Pferde](/white_knight.svg "2 Springer")
-![2 Läufer](/white_bishop.svg "2 Läufer")
-![9 Bauern](/white_pawn.svg "9 Bauern")
+![1 König](/images/white_king.svg "1 König") 
+![1 Dame](/images/white_queen.svg "1 Dame")
+![2 Türme](/images/white_rook.svg "2 Türme")
+![2 Pferde](/images/white_knight.svg "2 Springer")
+![2 Läufer](/images/white_bishop.svg "2 Läufer")
+![9 Bauern](/images/white_pawn.svg "9 Bauern")
 
 ### Spielvorbereitung
 
