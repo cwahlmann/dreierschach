@@ -39,7 +39,7 @@ Beim Ziehen werden zwei grundsätzliche Richtungen unterschieden:
 
 ![gerade ziehen](/images/move_straight.svg "gerade ziehen")
 
-**diagonal**, d.h. entlang gleichfarbiger Felder
+**diagonal**, d.h. entlang gleichfarbiger Felder:
 
 ![diagonal ziehen](/images/move_diagonal.svg "diagonal ziehen")
 
@@ -47,31 +47,31 @@ Beim Ziehen werden zwei grundsätzliche Richtungen unterschieden:
 
 Eine Figur darf - mit Ausnahme des Springers - nur über freie Felder gezogen werden. Ist das Zielfeld von einer gegnerischen Figur besetzt, so wird diese geschlagen, d.h. vom Brett genommen und durch die eigene ersetzt. 
       
-Der **König** darf wie die Dame ziehen, aber nur ein Feld weit.
-
-![König ziehen](/images/move_king.svg "König ziehen")
-
-Die **Dame** darf gerade und diagonal beliebig weit ziehen.
+Die **Dame** darf gerade und diagonal beliebig weit ziehen:
 
 ![Dame ziehen](/images/move_queen.svg "Dame ziehen")
 
-Der **Turm** darf in gerader Richtung beliebig weit ziehen.
+Der **König** darf wie die Dame ziehen, aber nur ein Feld weit:
+
+![König ziehen](/images/move_king.svg "König ziehen")
+
+Der **Turm** darf in gerader Richtung beliebig weit ziehen:
 
 ![Turm ziehen](/images/move_rook.svg "Turm ziehen")
 
-Das **Springer** darf im stumpfen Winkel ein Feld gerade und eines diagonal springen. Zwischen Start- und Zielfeld stehende Figuren werden übersprungen.
+Das **Springer** darf im stumpfen Winkel ein Feld gerade und eines diagonal springen. Zwischen Start- und Zielfeld stehende Figuren werden übersprungen:
 
 ![Springer ziehen](/images/move_knight.svg "Springer ziehen")
 
-Der **Läufer** darf diagonal beliebig weit ziehen.
+Der **Läufer** darf diagonal beliebig weit ziehen:
 
 ![Läufer ziehen](/images/move_bishop.svg "Läufer ziehen")
 
-Der **Bauer** darf sich nur von der heimatlichen Grundlinie weg bewegen. Ein Feld in gerader Richtung, wenn das Zielfeld frei ist, oder ein Feld diagonal, wenn eine gegnerische Figur geschlagen werden kann.
+Der **Bauer** darf sich nur von der heimatlichen Grundlinie weg bewegen. Ein Feld in gerader Richtung, wenn das Zielfeld frei ist, oder ein Feld diagonal, wenn eine gegnerische Figur geschlagen werden kann:
 
 ![Bauer ziehen](/images/move_pawn.svg "Bauer ziehen")
 
-Beim seinem ersten Zug darf der Bauer auch zwei Felder gerade ziehen.
+Beim seinem ersten Zug darf der Bauer auch zwei Felder gerade ziehen:
 
 ![Bauer erster Zug](/images/move_pawn_first.svg "Bauer erster Zug")
 
@@ -79,7 +79,7 @@ Beim seinem ersten Zug darf der Bauer auch zwei Felder gerade ziehen.
 
 **Umwandeln:** Erreicht ein Bauer eine gegnerische Grundlinie, so kann er diesen in eine Dame, einen Turm, ein Springer oder einen Läufer der eigenen Farbe umwandeln.
 
-Ein besonderer Zug ist die sogenannte **Rochade**: der König zieht an einen der Türme heran, der Turm setzt dann über ihn hinweg.
+Ein besonderer Zug ist die sogenannte **Rochade**: der König zieht an einen der Türme heran, der Turm setzt dann über ihn hinweg:
 
 ![Rochade](/images/move_rochade.svg "Rochade")
 
@@ -107,7 +107,7 @@ Kann ein Spieler keinen gültigen Zug mehr machen (**Pattstellung**), oder befin
 
 ### Notation
 
-Jedes Feld auf dem Brett hat eine eindeutige Bezeichnung. Das Brett ist unterteilt in horizontale (a-m) und vertikale Reihen (1-13) (zwei von drei geraden Richtungen). Horizontale Reihen werden mit Kleinbuchstaben, vertikale Reihen mit Zahlen bezeichnet. 
+Jedes Feld auf dem Brett hat eine eindeutige Bezeichnung. Das Brett ist unterteilt in horizontale (a-m) und vertikale Reihen (1-13) (zwei von drei geraden Richtungen). Horizontale Reihen werden mit Kleinbuchstaben, vertikale Reihen mit Zahlen bezeichnet:
 
 ![Notation](/images/notation.svg "Notation")
 
