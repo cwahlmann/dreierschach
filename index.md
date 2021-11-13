@@ -6,4 +6,4 @@ Schach zu dritt - chess for three players - nah am Original auf 126 hexagonalen 
 
 Dreierschach © 2021 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
-[Spielregeln]: /dreierschach/README.md "Spielregeln"
+[Spielregeln](/dreierschach/README.md "Spielregeln")
