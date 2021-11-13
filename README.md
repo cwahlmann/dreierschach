@@ -1,4 +1,7 @@
 # dreierschach V2.2
+
+![Dreierschach Logo](/images/logo.svg "Dreierschach Logo")
+
 Schach zu dritt - chess for three players - nah am Original auf 126 hexagonalen Feldern - nearly original on 126 hexagonal fields
 
 Dreierschach © 2021 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
@@ -20,7 +23,7 @@ Dreierschach © 2021 by Christian Wahlmann is licensed under CC BY 4.0. To view 
 
 Es wird ausgelost, welcher Spieler welche Farbe spielt. Dann werden die Figuren wie in der Abbildung auf das Spielbrett gestellt.
 
-![Aufstellung](/images/board_setop.svg "Aufstellung")
+![Aufstellung](/images/board_setup.svg "Aufstellung")
 
 Von der Grundlinie des jeweiligen Spielers aus stehen die Türme außen, daneben Läufer und Springer (wobei der Springer immer rechts steht), und in der Mitte König und Dame (sie steht immer rechts vom König auf einem Feld ihrer eigenen Farbe). Vor diesen Figuren stehen die 9 Bauern in einer Reihe.
 
@@ -32,33 +35,44 @@ Ziel des Spiels ist es, den König eines Gegners Schachmatt zu setzen (s.u.). Da
 
 Beim Ziehen werden zwei grundsätzliche Richtungen unterschieden:
 
-**gerade**, d.h. entlang benachbarter Felder
+**gerade**, d.h. entlang benachbarter Felder:
+
 ![gerade ziehen](/images/move_straight.svg "gerade ziehen")
 
-**diagonal**, d.h. entlang gleichfarbiger Felder.
+**diagonal**, d.h. entlang gleichfarbiger Felder
+
 ![diagonal ziehen](/images/move_diagonal.svg "diagonal ziehen")
+
 - Um diagonal zwischen zwei Feldern hindurchziehen zu können, muss eines davon frei sein. 
-- Eine Figur darf - mit Ausnahme des Springeres - nur über freie Felder gezogen werden. Ist das Zielfeld von einer gegnerischen Figur besetzt, so wird diese geschlagen, d.h. vom Brett genommen und durch die eigene ersetzt. 
+
+Eine Figur darf - mit Ausnahme des Springers - nur über freie Felder gezogen werden. Ist das Zielfeld von einer gegnerischen Figur besetzt, so wird diese geschlagen, d.h. vom Brett genommen und durch die eigene ersetzt. 
       
 Der **König** darf wie die Dame ziehen, aber nur ein Feld weit.
+
 ![König ziehen](/images/move_king.svg "König ziehen")
 
 Die **Dame** darf gerade und diagonal beliebig weit ziehen.
+
 ![Dame ziehen](/images/move_queen.svg "Dame ziehen")
 
 Der **Turm** darf in gerader Richtung beliebig weit ziehen.
+
 ![Turm ziehen](/images/move_rook.svg "Turm ziehen")
 
 Das **Springer** darf im stumpfen Winkel ein Feld gerade und eines diagonal springen. Zwischen Start- und Zielfeld stehende Figuren werden übersprungen.
+
 ![Springer ziehen](/images/move_knight.svg "Springer ziehen")
 
 Der **Läufer** darf diagonal beliebig weit ziehen.
+
 ![Läufer ziehen](/images/move_bishop.svg "Läufer ziehen")
 
 Der **Bauer** darf sich nur von der heimatlichen Grundlinie weg bewegen. Ein Feld in gerader Richtung, wenn das Zielfeld frei ist, oder ein Feld diagonal, wenn eine gegnerische Figur geschlagen werden kann.
+
 ![Bauer ziehen](/images/move_pawn.svg "Bauer ziehen")
 
 Beim seinem ersten Zug darf der Bauer auch zwei Felder gerade ziehen.
+
 ![Bauer erster Zug](/images/move_pawn_first.svg "Bauer erster Zug")
 
 **En Passant:** Zieht der Bauer in seinem ersten Zug 2 Felder weit, kann er von in dieser Runde von einem gegnerischen Bauern auch dann geschlagen werden, wenn dieser auf das Feld zieht, das der Bauer übersprungen hat.
@@ -66,7 +80,9 @@ Beim seinem ersten Zug darf der Bauer auch zwei Felder gerade ziehen.
 **Umwandeln:** Erreicht ein Bauer eine gegnerische Grundlinie, so kann er diesen in eine Dame, einen Turm, ein Springer oder einen Läufer der eigenen Farbe umwandeln.
 
 Ein besonderer Zug ist die sogenannte **Rochade**: der König zieht an einen der Türme heran, der Turm setzt dann über ihn hinweg.
+
 ![Rochade](/images/move_rochade.svg "Rochade")
+
 Dabei gilt:
 - Alle Felder zwischen König und Turm müssen frei sein. 
 - Weder König noch eines der Felder zwischen Turm und König dürfen durch eine gegnerische Figur bedroht sein. 
