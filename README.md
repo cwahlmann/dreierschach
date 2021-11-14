@@ -181,3 +181,125 @@ Der dritte Spieler bekommt **1 Punkt**.
 Bietet ein Spieler **Remis** an, und stimmen die anderen Spieler zu, so gilt das Spiel als unentschieden, und jeder Spieler bekommt **1 Punkt**.
 
 Kann ein Spieler keinen gültigen Zug mehr machen (**Pattstellung**), oder befinden sich nur noch die drei Könige auf dem Spielfeld, gilt automatisch **Remis**.
+
+## Konstruktion des Spielbretts
+
+
+### Material
+
+- Zwei identische Sätze Spielfiguren (z.B. Weiss - Schwarz)
+- 1 Dose Lack in einer dritten Farbe (z.B. Braun)
+- Material für ein Spielbrett (z.B. Holz und Farbe)
+
+### Herstellung der Figuren
+
+Pro Farbe werden neun Bauern gebraucht. Die Figuren für zwei Farben brauchen nur herausgesucht werden. Für die dritte Farbe werden aus den übrigen Figuren entsprechende herausgesucht und angemalt.
+
+        
+![Turm](/images/white_rook.svg "Turm")
+![Turm](/images/white_rook.svg "Turm")
+![Läufer](/images/white_bishop.svg "Läufer")
+![Läufer](/images/white_bishop.svg "Läufer")
+![Springer](/images/white_knight.svg "Springer")
+![Springer](/images/white_knight.svg "Springer")
+![König](/images/white_king.svg "König") 
+![Dame](/images/white_queen.svg "Dame")
+
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+... für Schwarz
+
+![Turm](/images/white_rook.svg "Turm")
+![Turm](/images/white_rook.svg "Turm")
+![Läufer](/images/white_bishop.svg "Läufer")
+![Läufer](/images/white_bishop.svg "Läufer")
+![Springer](/images/white_knight.svg "Springer")
+![Springer](/images/white_knight.svg "Springer")
+![König](/images/white_king.svg "König") 
+![Dame](/images/white_queen.svg "Dame")
+
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+... für Weiss
+
+![Turm](/images/white_rook.svg "Turm")
+![Turm](/images/white_rook.svg "Turm")
+![Läufer](/images/white_bishop.svg "Läufer")
+![Läufer](/images/white_bishop.svg "Läufer")
+![Springer](/images/white_knight.svg "Springer")
+![Springer](/images/white_knight.svg "Springer")
+![König](/images/white_king.svg "König") 
+![Dame](/images/white_queen.svg "Dame")
+
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+... für Grau
+
+Die restlichen Figuren sind übrig und können als Ersatz aufbewahrt werden.
+
+![Turm](/images/white_rook.svg "Turm")
+![Turm](/images/white_rook.svg "Turm")
+![Läufer](/images/white_bishop.svg "Läufer")
+![Läufer](/images/white_bishop.svg "Läufer")
+![Springer](/images/white_knight.svg "Springer")
+![Springer](/images/white_knight.svg "Springer")
+![König](/images/white_king.svg "König") 
+![Dame](/images/white_queen.svg "Dame")
+
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/white_pawn.svg "Bauer")
+... Reserve
+
+### Konstruktion des Spielbretts
+
+Die Größe des Bretts hängt von den Spielfiguren ab. Ganz gut passt die Faustregel, dass die Kantenlänge eines sechseckigen Spielfelds dem Durchmesser des Sockels der größten Spielfigur (Dame oder König) entspricht.
+
+Mit Zirkel und Lineal lässt sich dann recht einfach ein passendes Spielbrett konstruieren:
+
+Zuerst wird ein Kreis mit dem Radius r = 13 x Spielfeld-Kantenlänge gezogen. Dann ein gleich großer Kreis mit seinem Mittelpunkt auf der Linie des ersten Kreises, dann einer mit dem Mittelpunkt auf einem der Schnittpunkte und so weiter, bis es insgesamt 6 Schnittpunkte auf dem ersten Kreis gibt.
+
+![Konstruktion_1](/images/construction_1.svg "Konstruktion_1")
+![Konstruktion_2](/images/construction_2.svg "Konstruktion_2")
+
+
+Nun macht man aus den 6 Punkten ein großes Seckseck und unterteilt die Linien in kleine Abschnitte, so lang wie die obige Spielfeld-Kantenlänge (pro Linie 13 Abschnitte).
+
+![Konstruktion_3](/images/construction_3.svg "Konstruktion_3")
+
+Nun wird es interessant: Ein Lineal wird an die Abschnittmarkierungen angelegt, immer parallel zu einer Seite des Sechsecks. Jetzt lässt sich die (gedachte) Linie wieder in (gedachte) Abschnitte von Länge einer Spielfeld-Kante einteilen. Entsprechende Abschnitte (siehe Zeichnung) werden durchgezogen.
+
+![Konstruktion_4](/images/construction_4.svg "Konstruktion_4")
+
+Das Ganze muss in allen drei Ausrichtungen wiederholt werden. Ergebnis ist dann (hoffentlich!!) das Sechseckmuster des Spielbretts.
+
+![Konstruktion_5](/images/construction_5.svg "Konstruktion_5")
+![Konstruktion_6](/images/construction_6.svg "Konstruktion_6")
+
+
+Kapiert? Nun müssen nur (!) noch die Felder angemalt werden und fertig ist das Dreierschachbrett!!!
+
+![Konstruktion_7](/images/construction_7.svg "Konstruktion_7")
