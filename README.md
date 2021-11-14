@@ -258,7 +258,7 @@ Pro Farbe werden neun Bauern gebraucht. Die Figuren für zwei Farben brauchen nu
 ![Bauern](/images/black_pawn.svg "Bauer")
 ![Bauern](/images/white_pawn.svg "Bauer")
 ![Bauern](/images/white_pawn.svg "Bauer")
-... für Grau
+... für Braun
 
 Die restlichen Figuren sind übrig und können als Ersatz aufbewahrt werden.
 
