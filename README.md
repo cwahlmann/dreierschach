@@ -154,7 +154,7 @@ Wer auf eine etwas Fehler-tolerantere Notation Wert legt, kann auch immer das St
 - weiss: `a1`-`a8`
 - braun: `f1`-`m8`
 - schwarz: `f13`-`m13`
-- 
+
 Es gibt 9 statt 8 Bauern. Der Springer steht immer rechts vom Läufer. Die Dame steht rechts vom König auf eigener Farbe.
 
 ### Spielzüge
