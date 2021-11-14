@@ -6,6 +6,10 @@ Schach zu dritt - chess for three players - nah am Original auf 126 hexagonalen 
 
 Dreierschach © 2021 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
+- [Vollständige Spielregeln](#vollständige-spielregeln)
+- [Kurzregeln](#kurzregeln)
+- [Bauanleitung](#bauanleitung)
+
 ## Vollständige Spielregeln
 
 Dreierschach ist eine Variation des klassischen Schachspiels für drei Spieler, mit dem Ziel, das klassische Setting und die offiziellen Regeln möglichst 1:1 zu übernehmen.
