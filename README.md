@@ -182,7 +182,7 @@ Bietet ein Spieler **Remis** an, und stimmen die anderen Spieler zu, so gilt das
 
 Kann ein Spieler keinen gültigen Zug mehr machen (**Pattstellung**), oder befinden sich nur noch die drei Könige auf dem Spielfeld, gilt automatisch **Remis**.
 
-## Konstruktion des Spielbretts
+## Bauanleitung
 
 
 ### Material
@@ -196,24 +196,24 @@ Kann ein Spieler keinen gültigen Zug mehr machen (**Pattstellung**), oder befin
 Pro Farbe werden neun Bauern gebraucht. Die Figuren für zwei Farben brauchen nur herausgesucht werden. Für die dritte Farbe werden aus den übrigen Figuren entsprechende herausgesucht und angemalt.
 
         
-![Turm](/images/white_rook.svg "Turm")
-![Turm](/images/white_rook.svg "Turm")
-![Läufer](/images/white_bishop.svg "Läufer")
-![Läufer](/images/white_bishop.svg "Läufer")
-![Springer](/images/white_knight.svg "Springer")
-![Springer](/images/white_knight.svg "Springer")
-![König](/images/white_king.svg "König") 
-![Dame](/images/white_queen.svg "Dame")
+![Turm](/images/black_rook.svg "Turm")
+![Turm](/images/black_rook.svg "Turm")
+![Läufer](/images/black_bishop.svg "Läufer")
+![Läufer](/images/black_bishop.svg "Läufer")
+![Springer](/images/black_knight.svg "Springer")
+![Springer](/images/black_knight.svg "Springer")
+![König](/images/black_king.svg "König") 
+![Dame](/images/black_queen.svg "Dame")
 
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
 ... für Schwarz
 
 ![Turm](/images/white_rook.svg "Turm")
@@ -236,22 +236,22 @@ Pro Farbe werden neun Bauern gebraucht. Die Figuren für zwei Farben brauchen nu
 ![Bauern](/images/white_pawn.svg "Bauer")
 ... für Weiss
 
-![Turm](/images/white_rook.svg "Turm")
-![Turm](/images/white_rook.svg "Turm")
-![Läufer](/images/white_bishop.svg "Läufer")
-![Läufer](/images/white_bishop.svg "Läufer")
-![Springer](/images/white_knight.svg "Springer")
-![Springer](/images/white_knight.svg "Springer")
-![König](/images/white_king.svg "König") 
-![Dame](/images/white_queen.svg "Dame")
+![Turm](/images/black_rook.svg "Turm")
+![Turm](/images/black_rook.svg "Turm")
+![Läufer](/images/black_bishop.svg "Läufer")
+![Läufer](/images/black_bishop.svg "Läufer")
+![Springer](/images/black_knight.svg "Springer")
+![Springer](/images/black_knight.svg "Springer")
+![König](/images/black_king.svg "König") 
+![Dame](/images/black_queen.svg "Dame")
 
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
-![Bauern](/images/white_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
+![Bauern](/images/black_pawn.svg "Bauer")
 ![Bauern](/images/white_pawn.svg "Bauer")
 ![Bauern](/images/white_pawn.svg "Bauer")
 ... für Grau
