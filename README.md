@@ -25,7 +25,8 @@ Dies sind die überarbeiteten Spielregeln in Version 2.2.
     
 ### Spielmaterial
 
-- ein Spielbrett mit 126 sechseckigen Feldern in drei Farben 
+- ein dreifarbiges hexagonales Spielbrett mit Kantenlänge 6 mal 8 und 42 Feldern pro Farbe[^1]
+
 - 51 Spielfiguren, davon je 17 in einer Farbe: 
 
 1x ![1 König](/images/white_king.svg "1 König") 
@@ -34,6 +35,10 @@ Dies sind die überarbeiteten Spielregeln in Version 2.2.
 2x ![2 Springer](/images/white_knight.svg "2 Springer")
 2x ![2 Läufer](/images/white_bishop.svg "2 Läufer")
 9x ![9 Bauern](/images/white_pawn.svg "9 Bauern")
+
+[^1]: kein Zufall, die Frage ist unwiderruflich in die Hirnströme unseres Unterbewusstseins eingeprägt[^2]
+
+[^2]: jaja, 6 mal 8 ist nicht 42, 6 mal 9 aber auch nicht, und immerhin sind es 9 Bauern
 
 ### Spielvorbereitung
 
