@@ -133,9 +133,11 @@ Kann ein Spieler keinen gültigen Zug mehr machen (**Pattstellung**), oder befin
 
 Jedes Feld auf dem Brett hat eine eindeutige Bezeichnung. Das Brett ist unterteilt in horizontale (a-m) und vertikale Reihen (1-13) (zwei von drei geraden Richtungen). Horizontale Reihen werden mit Kleinbuchstaben, vertikale Reihen mit Zahlen bezeichnet:
 
-![Notation](/images/notation.svg "Notation")
+![Notation](/images/notation.svg "Notation (hier: d7")
 
-Um einen Spielzug zu notieren, schreibt man (außer beim Bauern) vor das Zielfeld den Anfangsbuchstaben der gezogenen Figur. Zieht z.B. ein weißes Springer von `d5` nach `g7`, so schreibt man `Sg7`. Gibt es eine gleiche Figur, die auch dorthin hätte ziehen können, so wird entweder der Buchstabe oder die Zahl des Startfelds eingefügt, je nachdem, was sich zur Unterscheidung eignet. Steht z.B. das zweite weiße Springer auf `d6`, so muss es heissen `S6g7` (und nicht etwa `Sdg7`, da ja beide von `d` kommen).
+Um einen Spielzug zu notieren, schreibt man (außer beim Bauern) vor das Zielfeld den Anfangsbuchstaben der gezogenen Figur.
+
+Zieht z.B. ein weißes Springer von `d5` nach `g7`, so schreibt man `Sg7`. Gibt es eine gleiche Figur, die auch dorthin hätte ziehen können, so wird entweder der Buchstabe oder die Zahl des Startfelds eingefügt, je nachdem, was sich zur Unterscheidung eignet. Steht z.B. das zweite weiße Springer auf `d6`, so muss es heissen `S5g7` (und nicht etwa `Sdg7`, da ja beide von `d` kommen).
 
 Um anzugeben, dass eine gegnerische Figur geschlagen wird, schreibt man vor das Zielfeld ein `x`, also z.B. `S6xg7` (Springer auf `6` schlägt Figur auf `g7`).
 
