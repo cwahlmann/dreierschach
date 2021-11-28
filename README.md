@@ -27,6 +27,8 @@ Dies sind die überarbeiteten Spielregeln in Version 2.2.
     
 ### Spielmaterial
 
+![Dreierschach-Brett aus Holz im Spiel](/images/board_wood_ingame.png "Dreierschach-Brett aus Holz im Spiel")
+
 - ein dreifarbiges hexagonales Spielbrett mit Kantenlänge 6 mal 8 und 42 Feldern pro Farbe[^1]
 
 - 51 Spielfiguren, davon je 17 in einer Farbe: 
@@ -196,8 +198,6 @@ Bietet ein Spieler **Remis** an, und stimmen die anderen Spieler zu, so gilt das
 Kann ein Spieler keinen gültigen Zug mehr machen (**Pattstellung**), oder befinden sich nur noch die drei Könige auf dem Spielfeld, gilt automatisch **Remis**.
 
 ## Bauanleitung
-
-![Dreierschach-Brett aus Holz im Spiel](/images/board_wood_ingame.png "Dreierschach-Brett aus Holz im Spiel")
 
 ### Material
 
