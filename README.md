@@ -197,7 +197,7 @@ Kann ein Spieler keinen gültigen Zug mehr machen (**Pattstellung**), oder befin
 
 ## Bauanleitung
 
-![Dreierschach-Brett aus Holz im Spiel](/dreierschach/images/board_wood_ingame.png "Dreierschach-Brett aus Holz im Spiel")
+![Dreierschach-Brett aus Holz im Spiel](/images/board_wood_ingame.png "Dreierschach-Brett aus Holz im Spiel")
 
 ### Material
 
