@@ -116,7 +116,7 @@ Beim seinem ersten Zug darf der Bauer auch zwei Felder gerade ziehen:
 
 ![Bauer erster Zug](/images/move_pawn_first.svg "Bauer erster Zug")
 
-**En Passant:** Zieht der Bauer in seinem ersten Zug 2 Felder weit, kann er von in dieser Runde von einem gegnerischen Bauern auch dann geschlagen werden, wenn dieser auf das Feld zieht, das der Bauer übersprungen hat.
+**En Passant:** Zieht der Bauer in seinem ersten Zug 2 Felder weit, kann er in dieser Runde von einem gegnerischen Bauern auch dann geschlagen werden, wenn dieser auf das Feld zieht, das der Bauer übersprungen hat.
 
 **Umwandeln:** Erreicht ein Bauer eine gegnerische Grundlinie, so kann er diesen in eine Dame, einen Turm, ein Springer oder einen Läufer der eigenen Farbe umwandeln.
 
@@ -155,10 +155,10 @@ Wird ein König ins Schach gestellt, so schreibt man ein `+` hinter das Zielfeld
 
 Vor jede neue Runde (beginnend mit weiss) wird eine fortlaufende Nummer geschrieben. Ein Spielprotokoll könnte also so aussehen:
 
-    1. 7d9 2. Sj8 3. 12k10
-    4. Le8 5. Sg7 6. Sd5
+    1. 7d9 Sj8 12k10
+    2. Le8 Sg7 Sd5
     ...
-    37. Dk6++
+    19. Dk6++
 
 Wer auf eine etwas Fehler-tolerantere Notation Wert legt, kann auch immer das Startfeld mit aufschreiben. 
 
