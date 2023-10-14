@@ -4,7 +4,7 @@
 
 Schach zu dritt - chess for three players - nah am Original auf 126 hexagonalen Feldern - nearly original on 126 hexagonal fields
 
-[Deutsche Version](README.md) 
+[Deutsche Version](README.md)
 
 ![Dreierschach Titel](/images/board_wooden_initial.jpg "Dreierschach Titel")
 
@@ -85,8 +85,6 @@ The **king** may move like the queen, but only one field.:
 
 A special move is the so-called **castling**: the king moves to one of the rooks, the rook then moves over it.
 
-
-
 ![Castling](/images/move_rochade.svg "Castling")
 
 Thereby apply:
@@ -111,7 +109,7 @@ The **bishop** may move any distance diagonally:
 
 ![The bishops move](/images/move_bishop.svg "The bishops move")
 
-The *pawn* may only move away from the home baseline. One field in a straight direction if the target field is free, or one field diagonally if an opponent's piece can be captured:
+The **pawn** may only move away from the home baseline. One field in a straight direction if the target field is free, or one field diagonally if an opponent's piece can be captured:
 
 ![The pawns move](/images/move_pawn.svg "The pawns move")
 
@@ -119,14 +117,14 @@ On its first move, the pawn may move two field straight:
 
 ![A pawns first move](/images/move_pawn_first.svg "A pawns first move")
 
-**En Passant:** An opponent's pawn "en passant" can be captured in his this turn even if the own piece moves to the field that the pawn skipped moving two fields from his baseline.
+**En Passant:** An opponent's pawn "en passant" can be captured in his this turn even if the own piece moves to the field that the pawn skipped in its first nove.
 
 **Conversion:** If a pawn reaches an opponent's baseline, it may be converted into a queen, rook, knight or bishop of its own color.
 
 
 ### End of the game
 
-The **winner** is the player who could capture the opponent's king with one of his pieces next. This player gets 3 points.
+The **winner** is the player who could captures the opponent's king with one of his pieces next. This player gets 3 points.
 
 The player whose king is checkmate **looses** the game. He gets no points.
 
@@ -190,7 +188,7 @@ The **knight** jumps one field straight and one diagonally (at an obtuse angle).
 
 ### End of the game
 
-The **winner** is the player who could capture the opponent's king with one of his pieces next. This player gets 3 points.
+The **winner** is the player who could captures the opponent's king with one of his pieces next. This player gets 3 points.
 
 The player whose king is checkmate **looses** the game. He gets no points.
 
@@ -272,7 +270,7 @@ Nine pawns are needed per color. The pieces for two colors only need to be picke
 ![pawnn](/images/white_pawn.svg "pawn")
 ... gray pieces
 
-Die restlichen Figuren sind übrig und können als Ersatz aufbewahrt werden.
+The remaining figures are left and can be kept as spares.
 
 ![rook](/images/white_rook.svg "rook")
 ![rook](/images/white_rook.svg "rook")
