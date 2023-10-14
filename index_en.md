@@ -1,6 +1,6 @@
 ## Dreierschach V2.3 (Three player chess)
 
-![Dreierschach Titel](/dreierschach/images/dreierschach_title.png "Dreierschach Titel")
+![Dreierschach Title](/dreierschach/images/dreierschach_title.png "Dreierschach Title")
 
 Dreierschach © 2023 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/ "CC BY 4.0")
 

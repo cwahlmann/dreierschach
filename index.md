@@ -1,4 +1,4 @@
-## Dreierschach V2.3 (Three player chess)
+## Dreierschach V2.3
 
 ![Dreierschach Titel](/dreierschach/images/dreierschach_title.png "Dreierschach Titel")
 
