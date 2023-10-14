@@ -8,7 +8,7 @@ Schach zu dritt - chess for three players - nah am Original auf 126 hexagonalen 
 
 ![Dreierschach Titel](/images/board_wooden_initial.jpg "Dreierschach Titel")
 
-Dreierschach © 2021 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+Dreierschach © 2023 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
 - [Complete game rules](#complete-game-rules)
 - [Short rules](#short-rules)
@@ -29,7 +29,7 @@ Changes to the previous version:
     
 ### Game material
 
-![Wooden Dreierschach-Board while playing](/images/board_wood_ingame.png "Wooden Dreierschach-Board while playing")
+![Wooden Dreierschach game board in play](/images/board_wood_ingame.png "Wooden Dreierschach game board in play")
 
 - a three-colored hexagonal game board with edges 6 by 8 and 42 fields per color [^1]
 - 51 game pieces, 17 of them in one color each:
@@ -45,7 +45,7 @@ Changes to the previous version:
 
 [^2]: yes, 6 times 8 is not 42, but 6 times 9 is not either, and after all there are 9 pawns
 
-### Game preparation
+### Game setup
 
 Draw lots to determine which player plays which color. Then the pieces are placed on the board as shown in the illustration.
 

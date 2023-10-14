@@ -8,7 +8,7 @@ Schach zu dritt - chess for three players - nah am Original auf 126 hexagonalen 
 
 ![Dreierschach Titel](/images/board_wooden_initial.jpg "Dreierschach Titel")
 
-Dreierschach © 2021 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+Dreierschach © 2023 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
 - [Vollständige Spielregeln](#vollständige-spielregeln)
 - [Kurzregeln](#kurzregeln)

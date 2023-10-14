@@ -1,8 +1,10 @@
-## Dreierschach V2.2
+## Dreierschach V2.2 (Three player chess)
 
 ![Dreierschach Titel](/dreierschach/images/dreierschach_title.png "Dreierschach Titel")
 
-Dreierschach © 2021 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/ "CC BY 4.0")
+Dreierschach © 2023 by Christian Wahlmann is licensed under CC BY 4.0. To view a copy of this license, visit [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/ "CC BY 4.0")
+
+[English version](index_en.md)
 
 - [Spielregeln (PDF)](/dreierschach/doc/Dreierschach_2.2_Regeln.pdf "Spielregeln (PDF)")
 - [Spielregeln (Libreoffice)](/dreierschach/doc/Dreierschach_2.2_Regeln.odt "Spielregeln (Libreoffice)")

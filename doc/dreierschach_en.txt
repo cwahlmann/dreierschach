@@ -1,0 +1,140 @@
+Dreierschach (Three-player chess)
+
+Complete game rules
+
+Three-player chess is a variation of the classic chess game for three players, with the goal of adopting the classic setting and the official rules as 1:1 as possible.
+
+The often criticized problem of 2:1 alliances is countered by a modified distribution of points. It pays to win, and less to be second.
+
+These are the revised game rules in version 2.2.
+
+Changes to the previous version:
+    - The game ends as soon as one player is checkmate.
+    - The point distribution (3, 1, 0) rewards mate-setting.
+    - Conversion is again according to the original chess rules
+
+1. Game material
+    - a three-colored hexagonal game board with edges 6 by 8 and 42 fields per color [1] [2]
+    - 51 game pieces, 17 of them in one color each: 
+
+[1] no coincidence, the question is irrevocably imprinted in the brainwaves of our subconscious mind
+[2] yes, 6 times 8 is not 42, but 6 times 9 is not either, and after all there are 9 pawns
+
+1 king
+1 queen 
+2 rooks
+2 knights 
+2 bishops
+9 pawns 
+
+2. game preparation
+Draw lots to determine which player plays which color. Then the pieces are placed on the board as shown in the illustration.
+
+>From the baseline of each player, the rooks are placed on the outside, the bishop and knight next to them (the knight is always on the right), and the king and queen in the middle (the queen is always to the right of the king on a field of its own color). In front of these pieces are the 9 pawns in a row.
+
+
+3. start of the game
+The object of the game is to checkmate an opponent's king. The colors are drawn at the beginning of the game. The player with the color white starts.
+
+4. course of the game
+The players draw one of their pieces in turn. The order is white, brown, black and so on.
+When moving, two basic directions are distinguished: straight, i.e. along adjacent fields, and diagonal, i.e. along fields of the same color.
+To move diagonally between two fields, one of them must be free.
+A piece - with the exception of the knight - may only be moved across free fields. If the target field is occupied by an opponent's piece, it is captured, i.e. removed from the board and replaced by the player's own piece.
+
+5. The moves of the individual pieces
+
+a) The Queen
+The queen may move straight and diagonally as far as she likes.
+
+b) The King
+The king may move like the queen, but only one field.
+
+If a player's king is threatened, it is in check. The player is obliged to release his king from check in the next move. If this is not possible on his turn, he is checkmated and the game ends. 
+
+No player may directly or indirectly place his own king in check.
+
+A special move is the so-called castling: the king moves to one of the rooks, the rook then moves over it. 
+All fields between king and rook must be free.
+Neither the king nor any of the fields between the rook and king may be threatened by an opponent's piece.
+Neither the rook nor the king may have been moved before. 
+A distinction is made between minor castling (over 2 free fields) and major castling (over 3 free fields).
+
+c) The Rook
+The rook may move as far as it likes in a straight line.
+
+d) The bishop
+The bishop may move any distance diagonally.
+
+e) The knight
+The knight may jump one field straight and one diagonally at an obtuse angle. Pieces standing between the starting and target field are jumped over.
+
+f) The pawn
+The pawn may only move away from the home baseline.
+
+One field in a straight direction if the target field is free, or one field diagonally if an opponent's piece can be captured.
+
+If a pawn reaches an opponent's baseline, it may be converted into a queen, rook, knight or bishop of its own color.
+
+On its first move, the pawn may move two fields straight. In this case, an opponent's pawn "en passant" can be captured in this turn even if the own piece moves to the field that the pawn skipped.
+
+
+6. end of the game
+
+The winner is the player who could captures the opponent's king with one of his pieces next. This player gets 3 points.
+The player whose king is checkmate looses the game. He gets 0 points. 
+The player that neither won nor lost gets 1 point.
+
+If a player offers a draw, and the other players agree, the game is considered a draw, and each player gets 1 point.
+If a player cannot make a valid move (stalemate), or if only the three kings are left on the board, the game is automatically drawn.
+
+7. notation
+
+Each field on the board has a unique designation. The board is divided into horizontal rows (a-m) and vertical colums (1-13) (two of three straight directions). Horizontal rows are designated with lowercase letters, vertical colums with numbers. 
+
+To record a move, write the initial letter of the piece moved (except for the pawn) in front of the target field. The knight is denoted by an N.
+
+For example, if a white knight moves from d5 to g7, write Ng7. If there is an identical piece that could also have moved there, either the letter or the number of the starting field is inserted, whichever is more suitable for differentiation. If the second white knight is on d6, it is N5g7 (and not Ndg7, since both come from d).
+
+To indicate that an opponent's piece is captured, write an x in front of the target field, e.g. N6xg7 (knight on 6 captures piece on g7).
+
+If a pawn is exchanged, the initial letter of the exchanged piece is written at the end, e.g. i4Q (pawn moves to i4 and is exchanged for the queen). A draw offer is noted with =.
+
+A minor castling (Ka2, Kl7 or Kg13) is noted with 0-0, a major castling (Ka7, Kg2 or Kl13) with 0-0-0. 
+
+If a king is placed in check, a + is written after the target field, e.g. Ra5+ (rook moves to a5 and threatens the king). Checkmate is denoted by ++, e.g. Bb6++ (bishop moves to b6 and checkmates the king).
+
+A consecutive number is written in front of each new turn (starting with white). So a game protocol could look like this:
+
+1. 7d9 2. Nj8 3. 12k10
+4. Be8 5. Ng7 6. Nd5
+...
+37. Qk6++
+
+If you prefer a more error-tolerant notation, you can always write down the starting field as well.
+ 
+Short rules
+(Knowledge of the classical chess rules is assumed)
+
+1. Game setup
+    - white: a1-a8 
+    - gray: f1-m8 
+    - black: f13-m13 
+There are 9 instead of 8 pawns. The knight is always to the right of the bishop. The queen is to the right of the king on its own color.
+
+2. moves
+Sequence: white - gray - black 
+Straight: across adjacent fields
+Diagonal: along fields of the same color
+
+To move diagonally between two fields, one of them must be free.
+
+The pawn can move straight in 2 directions and capture diagonally in 3 directions (away from the baseline).
+The knight jumps one field straight and one diagonally (at an obtuse angle).
+
+3. end of the game
+The winner is the player who could captures one of the opponent's kings with on of his pieces next. This player gets 3 points.
+The player whose king is checkmate looses. He gets 0 points. 
+The player that neither has won nor lost gets 1 point.
+If a player offers a draw, and the other players agree, the game is considered a draw, and each player gets 1 point.
+If a player cannot make a valid move (stalemate), or if only the three kings are left on the board, the game is automatically drawn.
