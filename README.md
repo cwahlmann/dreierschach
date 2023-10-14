@@ -1,8 +1,8 @@
-# Dreierschach V2.2
+# Dreierschach V2.3
 
 ![Dreierschach Logo](/images/logo.svg "Dreierschach Logo")
 
-Schach zu dritt - chess for three players - nah am Original auf 126 hexagonalen Feldern - nearly original on 126 hexagonal fields
+Schach zu dritt - nah am Original auf 126 hexagonalen Feldern
 
 [English version](README_en.md)
 
@@ -20,13 +20,16 @@ Dreierschach ist eine Variation des klassischen Schachspiels für drei Spieler, 
 
 Dem oft bemängelten Problem von 2:1-Bündnissen wird durch eine veränderte Punkteverteilung begegnet. Es lohnt sich zu siegen, und weniger, zweiter zu sein.
 
-Dies sind die überarbeiteten Spielregeln in Version 2.2.
+Dies sind die überarbeiteten Spielregeln in Version 2.3.
 
-Änderungen zur Vorversion:
+### Änderungen V2.2:
 - Das Spiel endet, sobald ein Spieler Schachmatt steht.
 - Die Punkteverteilung (3, 1, 0) belohnt das Matt-Setzen.
 - Umgewandelt wird wieder nach den original Schach-Regeln
-    
+
+### Änderungen V2.3:
+- Die Bezeichnung der Spielfelder wurde korrigiert. Weiß steht nun wie beim klassischen Schach auf den Feldern `a1` bis `h1`.
+
 ### Spielmaterial
 
 ![Dreierschach-Brett aus Holz im Spiel](/images/board_wood_ingame.png "Dreierschach-Brett aus Holz im Spiel")
@@ -137,30 +140,30 @@ Kann ein Spieler keinen gültigen Zug mehr machen (**Pattstellung**), oder befin
 
 ### Notation
 
-Jedes Feld auf dem Brett hat eine eindeutige Bezeichnung. Das Brett ist unterteilt in horizontale (a-m) und vertikale Reihen (1-13) (zwei von drei geraden Richtungen). Horizontale Reihen werden mit Kleinbuchstaben, vertikale Reihen mit Zahlen bezeichnet:
+Jedes Feld auf dem Brett hat eine eindeutige Bezeichnung. Das Brett ist unterteilt in vertikale (`a`-`m`) und horizontale Reihen (`1`-`13`) (zwei von drei geraden Richtungen). Vertikale Reihen werden mit Kleinbuchstaben, horizontale Reihen mit Zahlen bezeichnet:
 
-![Notation](/images/notation.svg "Notation (hier: d7")
+![Notation](/images/notation.svg "Notation (hier: g4")
 
 Um einen Spielzug zu notieren, schreibt man (außer beim Bauern) vor das Zielfeld den Anfangsbuchstaben der gezogenen Figur.
 
-Zieht z.B. ein weißes Springer von `d5` nach `g7`, so schreibt man `Sg7`. Gibt es eine gleiche Figur, die auch dorthin hätte ziehen können, so wird entweder der Buchstabe oder die Zahl des Startfelds eingefügt, je nachdem, was sich zur Unterscheidung eignet. Steht z.B. das zweite weiße Springer auf `d6`, so muss es heissen `S5g7` (und nicht etwa `Sdg7`, da ja beide von `d` kommen).
+Zieht z.B. ein weißer Springer von `d5` nach `g7`, so schreibt man `Sg7`. Gibt es eine gleiche Figur, die auch dorthin hätte ziehen können, so wird entweder der Buchstabe oder die Zahl des Startfelds eingefügt, je nachdem, was sich zur Unterscheidung eignet. Steht z.B. das zweite weiße Springer auf `d6`, so muss es heissen `S5g7` (und nicht etwa `Sdg7`, da ja beide von `d` kommen).
 
 Um anzugeben, dass eine gegnerische Figur geschlagen wird, schreibt man vor das Zielfeld ein `x`, also z.B. `S6xg7` (Springer auf `6` schlägt Figur auf `g7`).
 
-Wird ein Bauer umgewandelt, so steht am Ende der Anfangsbuchstabe der eingetauschten Figur, also z.B. `i4D` (Bauer zieht nach i4 und wird gegen die Dame eingetauscht).
+Wird ein Bauer umgewandelt, so steht am Ende der Anfangsbuchstabe der eingetauschten Figur, also z.B. `d9D` (Bauer zieht nach `d9` und wird gegen die Dame eingetauscht).
 
 Ein Remisangebot wird mit `=` notiert.
 
-Eine kleine Rochade (`Ka2`, `Kl7` oder `Kg13`) wird mit `0-0` notiert, eine große Rochade (`Ka7`, `Kg2` oder `Kl13`) mit `0-0-0`.
+Eine kleine Rochade (`Kb1`, `Km7` oder `Kg12`) wird mit `0-0` notiert, eine große Rochade (`Kg1`, `Km12` oder `Kb8`) mit `0-0-0`.
 
-Wird ein König ins Schach gestellt, so schreibt man ein `+` hinter das Zielfeld, z.B. `Ta5+` (Turm zieht nach `a5` und bedroht den König). Schachmatt wird durch `++` bezeichnet, z.B. `Lb6++` (Läufer zieht nach `b6` und setzt den König schachmatt).
+Wird ein König ins Schach gestellt, so schreibt man ein `+` hinter das Zielfeld, z.B. `Te1+` (Turm zieht nach `e1` und bedroht den König). Schachmatt wird durch `++` bezeichnet, z.B. `Lf2++` (Läufer zieht nach `f2` und setzt den König schachmatt).
 
-Vor jede neue Runde (beginnend mit weiss) wird eine fortlaufende Nummer geschrieben. Ein Spielprotokoll könnte also so aussehen:
+Vor jede neue Runde (beginnend mit Weiß) wird eine fortlaufende Nummer geschrieben. Ein Spielprotokoll könnte also so aussehen:
 
-    1. 7d9 Sj8 12k10
-    2. Le8 Sg7 Sd5
+    1. gi4 Sd2 11j11
+    2. Li7 Sh10 Sj7
     ...
-    19. Dk6++
+    19. Dg11++
 
 Wer auf eine etwas Fehler-tolerantere Notation Wert legt, kann auch immer das Startfeld mit aufschreiben. 
 
@@ -168,15 +171,15 @@ Wer auf eine etwas Fehler-tolerantere Notation Wert legt, kann auch immer das St
 (Kenntnis der klassischen Schachregeln wird vorausgesetzt)
 
 ### Aufstellung
-- weiss: `a1`-`a8`
-- braun: `f1`-`m8`
-- schwarz: `f13`-`m13`
+- weiß: `a1`-`h1`
+- braun: `h13`-`a6`
+- schwarz: `m6`-`m13`
 
 Es gibt 9 statt 8 Bauern. Der Springer steht immer rechts vom Läufer. Die Dame steht rechts vom König auf eigener Farbe.
 
 ### Spielzüge
 
-**Reihenfolge**: weiss - braun - schwarz 
+**Reihenfolge**: weiß - braun - schwarz 
 
 **Gerade**: über benachbarte Felder 
 **Diagonal**: entlang Felder gleicher Farbe 

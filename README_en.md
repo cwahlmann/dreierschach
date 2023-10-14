@@ -1,8 +1,8 @@
-# Dreierschach V2.2 (Three-player chess)
+# Dreierschach V2.3 (Three-player chess)
 
 ![Dreierschach Logo](/images/logo.svg "Dreierschach Logo")
 
-Schach zu dritt - chess for three players - nah am Original auf 126 hexagonalen Feldern - nearly original on 126 hexagonal fields
+Chess for three players - nearly original on 126 hexagonal fields
 
 [Deutsche Version](README.md)
 
@@ -22,11 +22,14 @@ The often criticized problem of 2:1 alliances is countered by a modified distrib
 
 These are the revised game rules in version 2.2.
 
-Changes to the previous version:
+### Changes V2.2:
 - The game ends as soon as one player is checkmate.
 - The point distribution (3, 1, 0) rewards mate-setting.
 - Conversion is again according to the original chess rules
-    
+
+### Changes V2.3:
+- The notation of the fields was fixed. Alike classic chess white now is placed on the fields `a1` to `h1`. 
+
 ### Game material
 
 ![Wooden Dreierschach game board in play](/images/board_wood_ingame.png "Wooden Dreierschach game board in play")
@@ -136,9 +139,9 @@ If a player cannot make a valid move (**stalemate**), or if only the three kings
 
 ### Notation
 
-Each field on the board has a unique designation. The board is divided into horizontal rows (`a`-`m`) and vertical colums (`1`-`1`3) (two of three straight directions). Horizontal rows are designated with lowercase letters, vertical colums with numbers:
+Each field on the board has a unique designation. The board is divided into vertical colums (`a`-`m`) and horizontal rows (`1`-`13`) (two of three straight directions). Vertical columns are designated with lowercase letters, horizontal rows with numbers:
 
-![Notation](/images/notation.svg "Notation (here: d7")
+![Notation](/images/notation.svg "Notation (here: g4")
 
 To record a move, write the initial letter of the piece moved (except for the pawn) in front of the target field. The knight is denoted by an `N`.
 
@@ -146,20 +149,20 @@ For example, if a white knight moves from `d5` to `g7`, write `Ng7`. If there is
 
 To indicate that an opponent's piece is captured, write an x in front of the target field, e.g. `N6xg7` (knight on `6` captures piece on `g7`).
 
-If a pawn is exchanged, the initial letter of the exchanged piece is written at the end, e.g. `i4Q` (pawn moves to `i4` and is exchanged for the queen).
+If a pawn is exchanged, the initial letter of the exchanged piece is written at the end, e.g. `d9Q` (pawn moves to `d9` and is exchanged for the queen).
 
 A draw offer is noted with `=`.
 
-A minor castling (`Ka2`, `Kl7` or `Kg13`) is noted with `0-0`, a major castling (`Ka7`, `Kg2` or `Kl13`) with `0-0-0`.
+A minor castling (`Kb1`, `Km7` oder `Kg12`) is noted with `0-0`, a major castling (`Kg1`, `Km12` oder `Kb8`) with `0-0-0`.
 
-If a king is placed in check, a `+` is written after the target field, e.g. `Ra5+` (rook moves to `a5` and threatens the king). Checkmate is denoted by `++`, e.g. `Bb6++` (bishop moves to `b6` and checkmates the king).
+If a king is placed in check, a `+` is written after the target field, e.g. `Re1+` (rook moves to `e1` and threatens the king). Checkmate is denoted by `++`, e.g. `Bf2++` (bishop moves to `f2` and checkmates the king).
 
 A consecutive number is written in front of each new turn (starting with white). So a game protocol could look like this:
 
-    1. 7d9 2. Nj8 3. 12k10
-    4. Be8 5. Ng7 6. Nd5
+    1. gi4 Sd2 11j11
+    2. Li7 Sh10 Sj7
     ...
-    37. Qk6++
+    19. Dg11++
 
 If you prefer a more error-tolerant notation, you can always write down the starting field as well. 
 
@@ -167,9 +170,9 @@ If you prefer a more error-tolerant notation, you can always write down the star
 (Knowledge of the classical chess rules is assumed)
 
 ### Game setup
-- white: `a1`-`a8`
-- gray: `f1`-`m8`
-- black: `f13`-`m13`
+- white: `a1`-`h1`
+- gray: `h13`-`a6`
+- black: `m6`-`m13`
 
 There are 9 instead of 8 pawns. The knight is always to the right of the bishop. The queen is to the right of the king on its own color.
 

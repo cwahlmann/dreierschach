@@ -2,29 +2,29 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="65.234146mm"
-   height="55.918533mm"
-   viewBox="0 0 65.234146 55.918533"
+   height="57.126232mm"
+   viewBox="0 0 65.234146 57.126232"
    version="1.1"
    id="svg1895"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="move_pawn_first.svg">
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="move_pawn_first.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1889">
     <filter
        inkscape:collect="always"
        id="filter4054-5-3-1-94"
-       x="-0.025609033"
-       width="1.0512182"
-       y="-0.16676886"
-       height="1.3335377"
+       x="-0.19075014"
+       width="1.3815003"
+       y="-0.17894629"
+       height="1.3578926"
        style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -34,10 +34,10 @@
     <filter
        inkscape:collect="always"
        id="filter4054-5-3-1-9-6"
-       x="-0.025609033"
-       width="1.0512182"
-       y="-0.16676886"
-       height="1.3335377"
+       x="-0.19355904"
+       width="1.3871181"
+       y="-0.1956544"
+       height="1.3913088"
        style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -47,10 +47,10 @@
     <filter
        inkscape:collect="always"
        id="filter4054-5-3-1-5-5"
-       x="-0.025609033"
-       width="1.0512182"
-       y="-0.16676886"
-       height="1.3335377"
+       x="-0.26925252"
+       width="1.538505"
+       y="-0.19645191"
+       height="1.3929038"
        style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -60,10 +60,10 @@
     <filter
        inkscape:collect="always"
        id="filter4054-5-3-1-0-7"
-       x="-0.025609033"
-       width="1.0512182"
-       y="-0.16676886"
-       height="1.3335377"
+       x="-0.26925252"
+       width="1.538505"
+       y="-0.19645191"
+       height="1.3929038"
        style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -73,10 +73,10 @@
     <filter
        inkscape:collect="always"
        id="filter4054-5-3-1-99-2-8"
-       x="-0.025609033"
-       width="1.0512182"
-       y="-0.16676886"
-       height="1.3335377"
+       x="-0.26925252"
+       width="1.538505"
+       y="-0.19645191"
+       height="1.3929038"
        style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -86,10 +86,10 @@
     <filter
        inkscape:collect="always"
        id="filter4054-5-3-1-5-0-7"
-       x="-0.025609033"
-       width="1.0512182"
-       y="-0.16676886"
-       height="1.3335377"
+       x="-0.26925252"
+       width="1.538505"
+       y="-0.19645191"
+       height="1.3929038"
        style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -99,10 +99,10 @@
     <filter
        inkscape:collect="always"
        id="filter4054-5-3-1-4-6-6"
-       x="-0.025609033"
-       width="1.0512182"
-       y="-0.16676886"
-       height="1.3335377"
+       x="-0.26925252"
+       width="1.538505"
+       y="-0.19645191"
+       height="1.3929038"
        style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -117,17 +117,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="394.7057"
-     inkscape:cy="722.81567"
+     inkscape:zoom="1.4"
+     inkscape:cx="141.07143"
+     inkscape:cy="103.21429"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1779"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1046"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1516"
+     inkscape:window-height="752"
+     inkscape:window-x="50"
+     inkscape:window-y="114"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata1892">
     <rdf:RDF>
@@ -136,7 +139,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -239,7 +241,7 @@
            y="1403.8"
            x="1020.5801"
            id="tspan5399-8"
-           sodipodi:role="line">4</tspan></text>
+           sodipodi:role="line">d</tspan></text>
       <text
          transform="rotate(-30)"
          id="text5405-0"
@@ -251,7 +253,7 @@
            y="1426.6375"
            x="1060.4789"
            id="tspan5403-0"
-           sodipodi:role="line">5</tspan></text>
+           sodipodi:role="line">e</tspan></text>
       <text
          transform="rotate(-30)"
          id="text5409-54"
@@ -263,7 +265,7 @@
            y="1449.8168"
            x="1100.1274"
            id="tspan5407-9"
-           sodipodi:role="line">6</tspan></text>
+           sodipodi:role="line">f</tspan></text>
       <text
          transform="rotate(-30)"
          id="text5413-8"
@@ -275,12 +277,12 @@
            y="1472.8434"
            x="1140.1179"
            id="tspan5411-4"
-           sodipodi:role="line">7</tspan></text>
+           sodipodi:role="line">g</tspan></text>
       <g
          transform="translate(1488.2858,479.63537)"
          id="g4178-5-5-8-3">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.50196078;stroke:none;filter:url(#filter4054-5-3-1-94)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.501961;stroke:none;filter:url(#filter4054-5-3-1-94)"
            sodipodi:nodetypes="cccccsccccccccccccccccccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path3879-5-7-5-7-8"
@@ -301,7 +303,7 @@
          id="g4183-9-3-8-2"
          transform="translate(1486.5172,485.95538)">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.50196078;stroke:none;filter:url(#filter4054-5-3-1-94)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.501961;stroke:none;filter:url(#filter4054-5-3-1-94)"
            sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccsccccsccccccccccccccccsccccccccccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path3881-2-2-9-0-1"
@@ -322,7 +324,7 @@
          id="g5727-8-5-0"
          transform="translate(1488.0135,386.99304)">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.50196078;stroke:none;filter:url(#filter4054-5-3-1-9-6)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.501961;stroke:none;filter:url(#filter4054-5-3-1-9-6)"
            sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path3885-2-6-7-9-4-9"
@@ -343,7 +345,7 @@
          id="g4198-8-4-9-6-1"
          transform="translate(1405.9675,488.01534)">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.50196078;stroke:none;filter:url(#filter4054-5-3-1-9-6)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.501961;stroke:none;filter:url(#filter4054-5-3-1-9-6)"
            sodipodi:nodetypes="ccccccccsccccscccccccccccccccsscccccc"
            inkscape:connector-curvature="0"
            id="path3887-2-3-4-0-5-3"
@@ -364,7 +366,7 @@
          id="g4203-0-6-0-89-52"
          transform="translate(1243.8828,445.53314)">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.50196078;stroke:none;filter:url(#filter4054-5-3-1-5-5)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.501961;stroke:none;filter:url(#filter4054-5-3-1-5-5)"
            sodipodi:nodetypes="cscccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path3889-0-7-4-8-8-7"
@@ -385,7 +387,7 @@
          id="g4203-0-6-0-4-7"
          transform="translate(1289.9117,445.53314)">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.50196078;stroke:none;filter:url(#filter4054-5-3-1-0-7)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.501961;stroke:none;filter:url(#filter4054-5-3-1-0-7)"
            sodipodi:nodetypes="cscccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path3889-0-7-4-8-1-3"
@@ -406,7 +408,7 @@
          id="g4203-0-6-0-9-6-9"
          transform="translate(1381.9695,445.53314)">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.50196078;stroke:none;filter:url(#filter4054-5-3-1-99-2-8)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.501961;stroke:none;filter:url(#filter4054-5-3-1-99-2-8)"
            sodipodi:nodetypes="cscccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path3889-0-7-4-8-0-1-0"
@@ -427,7 +429,7 @@
          id="g4203-0-6-0-89-5-8"
          transform="translate(1427.9985,445.53314)">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.50196078;stroke:none;filter:url(#filter4054-5-3-1-5-0-7)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.501961;stroke:none;filter:url(#filter4054-5-3-1-5-0-7)"
            sodipodi:nodetypes="cscccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path3889-0-7-4-8-8-0-9"
@@ -448,7 +450,7 @@
          id="g4203-0-6-0-8-4-0"
          transform="translate(1335.9406,445.53317)">
         <path
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.50196078;stroke:none;filter:url(#filter4054-5-3-1-4-6-6)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Chess Cases';-inkscape-font-specification:'Chess Cases';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.501961;stroke:none;filter:url(#filter4054-5-3-1-4-6-6)"
            sodipodi:nodetypes="cscccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path3889-0-7-4-8-2-8-8"
